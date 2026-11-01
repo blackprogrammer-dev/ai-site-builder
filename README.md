@@ -61,6 +61,6 @@ This is a demo, not a hosted website platform: sites are exported as files, ther
 
 ## Need a custom website, a Telegram bot or an AI integration?
 
-Contact me: korochanskyyartem1998@gmail.com
+Contact me: blackprogrammer.dev@gmail.com
 
 Code: https://github.com/Artem18071998/ai-site-builder
